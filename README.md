@@ -35,7 +35,7 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
 
 * step1 探索性資料分析<br>
 相關性<br>
-![](Rplot1.png)
+![](Rplot01.png)
 常態性
 ![](Rplot.png)
  
