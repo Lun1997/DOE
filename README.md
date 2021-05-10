@@ -31,7 +31,7 @@
 * label<br>
 大腦中海馬迴、前額葉及杏仁核的各種蛋白質<br>
  
- pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / GFAP
+pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / GFAP
  
  
  
