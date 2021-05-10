@@ -44,11 +44,11 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
 | L            | 2            | group 6 |
 
 * step1 探索性資料分析<br>
-相關性<br>
+**相關性**<br>
 ![](Rplot01.png)
-常態性(Q-Q normal 以海馬迴中蛋白質為例)
+**常態性(Q-Q normal 以海馬迴中蛋白質為例)**
 ![](Rplot.png)
-常態性(Shapiro-Wilk test 以杏仁核區塊為例)<br>
+**常態性(Shapiro-Wilk test 以杏仁核區塊為例)**<br>
 (p-value < 0.05 認定為較不服從常態分佈)
 
 | group   | pJNK  | pCaMKII | DAPK  | Arc   |
@@ -63,16 +63,16 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
  (多數組別通過常態性檢定，適用ANOVA)
  
  * step2 統計分析<br>
-   two ANOVA<br>
+   **two ANOVA**<br>
  ![](https://github.com/Lun1997/DOE/blob/main/two%20way%20ANOVA.png)
-   事後檢定
+   **事後檢定**
  ![](https://github.com/Lun1997/DOE/blob/main/turkey%20range%20test.png)
  
  ### 結論
  
-1. 如果體內長期存有高濃度之塑膠微粒下，將導致海馬迴中神經細胞加速死亡，而最終對記憶及學習造成嚴重的危害。<br>
-2. 長期含有高濃度之塑膠微粒下，並不會影響前額葉的認知功能。但可能也因樣本數量不夠，無法做出精準的判斷。<br>
-3. 塑膠微粒的情況下並不會促進對杏仁核細胞死亡，所以我們並沒有發現對其造成損害的情況。
+**1. 如果體內長期存有高濃度之塑膠微粒下，將導致海馬迴中神經細胞加速死亡，而最終對記憶及學習造成嚴重的危害**。<br>
+**2. 長期含有高濃度之塑膠微粒下，並不會影響前額葉的認知功能。但可能也因樣本數量不夠，無法做出精準的判斷。**<br>
+**3. 塑膠微粒的情況下並不會促進對杏仁核細胞死亡，所以我們並沒有發現對其造成損害的情況。**
  
  
 
