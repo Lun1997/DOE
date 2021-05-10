@@ -46,8 +46,17 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
 * step1 探索性資料分析<br>
 相關性<br>
 ![](Rplot01.png)
-常態性(Q-Q normal)
+常態性(Q-Q normal 以海馬迴中蛋白質為例)
 ![](Rplot.png)
-常態性(Shapiro-Wilk test)
+常態性(Shapiro-Wilk test 以杏仁核區塊為例)<br>
+(p-value < 0.05 認定為較不服從常態分佈)
+|         | pJNK  | pCaMKII | DAPK  | Arc   |
+|---------|-------|---------|-------|-------|
+| group 1 | 0.215 | 0.991   | 0.948 | 0.63  |
+| group 2 | 0.054 | 0.006   | 0.1   | 0.028 |
+| group 3 | 0.41  | 0.427   | 0.033 | 0.412 |
+| group 4 | 0.338 | 0.019   | 0.007 | 0     |
+| group 5 | 0.067 | 0.26    | 0.514 | 0.607 |
+| group 6 | 0.23  | 0.152   | 0.228 | 0.01  |
 
  
