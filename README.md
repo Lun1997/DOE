@@ -60,4 +60,18 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
 | group 5 | 0.067 | 0.26    | 0.514 | 0.607 |
 | group 6 | 0.23  | 0.152   | 0.228 | 0.01  |
 
+ (多數組別通過常態性檢定，適用ANOVA)
  
+ * step2 two ANOVA & 事後檢定<br>
+ ![](https://github.com/Lun1997/DOE/blob/main/two%20way%20ANOVA.png)
+ ![](https://github.com/Lun1997/DOE/blob/main/turkey%20range%20test.png)
+ 
+ ### 結論
+ 
+1.如果體內長期存有高濃度之塑膠微粒下，將導致海馬迴中神經細胞加速死亡，而最終對記憶及學習造成嚴重的危害。<br>
+2.長期含有高濃度之塑膠微粒下，並不會影響前額葉的認知功能。但可能也因樣本數量不夠，無法做出精準的判斷。<br>
+3.塑膠微粒的情況下並不會促進對杏仁核細胞死亡，所以我們並沒有發現對其造成損害的情況。
+ 
+ 
+
+
