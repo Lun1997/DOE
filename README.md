@@ -63,9 +63,9 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
  (多數組別通過常態性檢定，適用ANOVA)
  
  * step2 統計分析<br>
-   **two ANOVA**<br>
+   **two way ANOVA**<br>
  ![](https://github.com/Lun1997/DOE/blob/main/two%20way%20ANOVA.png)
-   **事後檢定**
+   **事後檢定Tukey's range test**
  ![](https://github.com/Lun1997/DOE/blob/main/turkey%20range%20test.png)
  
  ### 結論
