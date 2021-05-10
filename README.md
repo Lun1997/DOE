@@ -33,10 +33,9 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
 ### 任務
 分析塑膠微粒濃度對蛋白質的影響
 
-* 探索性資料分析<br>
-#### 相關性
-![](Rplot1)
-
-#### 常態性
-![](Rplot) 
+* step1 探索性資料分析<br>
+相關性
+![](Rplot1.png)
+常態性
+![](Rplot.png)
  
