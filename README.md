@@ -50,7 +50,7 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
 ![](Rplot.png)
 常態性(Shapiro-Wilk test 以杏仁核區塊為例)<br>
 (p-value < 0.05 認定為較不服從常態分佈)
-|         | pJNK  | pCaMKII | DAPK  | Arc   |
+| group   | pJNK  | pCaMKII | DAPK  | Arc   |
 |---------|-------|---------|-------|-------|
 | group 1 | 0.215 | 0.991   | 0.948 | 0.63  |
 | group 2 | 0.054 | 0.006   | 0.1   | 0.028 |
