@@ -49,7 +49,7 @@ pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / 
 常態性(Q-Q normal 以海馬迴中蛋白質為例)
 ![](Rplot.png)
 常態性(Shapiro-Wilk test 以杏仁核區塊為例)<br>
-(p-value < 0.05 認定為較不服從常態分佈)<br>
+(p-value < 0.05 認定為較不服從常態分佈)
 
 | group   | pJNK  | pCaMKII | DAPK  | Arc   |
 |---------|-------|---------|-------|-------|
