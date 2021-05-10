@@ -31,11 +31,23 @@
 pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / GFAP
  
 ### 任務
-分析塑膠微粒濃度對蛋白質的影響
+分析塑膠微粒濃度對蛋白質的影響<br>
+
+(依據月份和塑膠微粒濃度將資料分成2x3=6組)<br>
+| 餵食濃度 (state) | 餵食期間 (month) | group   |
+|--------------|--------------|---------|
+| C            | 1            | group 1 |
+| H            | 1            | group 2 |
+| L            | 1            | group 3 |
+| C            | 2            | group 4 |
+| H            | 2            | group 5 |
+| L            | 2            | group 6 |
 
 * step1 探索性資料分析<br>
 相關性<br>
 ![](Rplot01.png)
 常態性(Q-Q normal)
 ![](Rplot.png)
+常態性(Shapiro-Wilk test)
+
  
