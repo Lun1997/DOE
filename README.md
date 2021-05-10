@@ -23,14 +23,11 @@
 
 * feature<br>
  state(C:無塑膠微粒/L:低濃度塑膠微粒/H:高濃度塑膠微粒)<br>
- 
  gender(Male/Female)<br>
- 
  month
 
 * label<br>
 大腦中海馬迴、前額葉及杏仁核的各種蛋白質<br>
- 
 pERK / ERK / pCaMKII / CaMKII / pJNK / JNK / Arc / pp38 / DAPK / pDAPK / Egr1 / GFAP
  
  
